@@ -1,0 +1,292 @@
+<scene formatVersion="1.0.0">
+  <nodes>
+    <node name="Tree 2 Trunk_prox">
+      <position x="21.257427" y="0.375634" z="28.565937"/>
+      <quaternion x="0.000000" y="0.000000" z="-0.000000" w="1.000000"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Trunk_prox" meshFile="Tree 2 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Leaves_pro">
+      <position x="-28.800858" y="1.097807" z="-27.109825"/>
+      <quaternion x="0.079319" y="0.723972" z="0.183534" w="0.660218"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Leaves_pro" meshFile="Tree 3 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Road Barrier_prox.002">
+      <position x="22.263771" y="1.014461" z="14.342891"/>
+      <quaternion x="0.143352" y="0.007953" z="0.054820" w="0.988120"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Barrier_prox.002" meshFile="Road Barrier.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Trunk_prox">
+      <position x="-28.800858" y="-0.743193" z="-27.109825"/>
+      <quaternion x="0.079319" y="0.723972" z="0.183534" w="0.660218"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Trunk_prox" meshFile="Tree 3 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Postbox_proxy.001">
+      <position x="9.040972" y="-2.312613" z="-25.143927"/>
+      <quaternion x="0.035857" y="0.927489" z="0.035310" w="0.370449"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Postbox_proxy.001" meshFile="Postbox.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+      </userData>
+    </node>
+    <node name="Tree 2 Leaves_proxy">
+      <position x="-16.102911" y="2.829781" z="-2.087598"/>
+      <quaternion x="0.000000" y="0.000000" z="-0.000000" w="1.000000"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Leaves_proxy" meshFile="Tree 2 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Road Barrier_prox">
+      <position x="9.598999" y="-1.983534" z="-16.699001"/>
+      <quaternion x="0.032444" y="-0.344789" z="0.127488" w="0.929416"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Barrier_prox" meshFile="Road Barrier.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Leaves_proxy">
+      <position x="28.709103" y="1.790237" z="-24.312225"/>
+      <quaternion x="0.000000" y="0.334256" z="-0.000000" w="0.942482"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Leaves_proxy" meshFile="Tree 4 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Trunk_prox.001">
+      <position x="-15.968262" y="1.496309" z="-28.562952"/>
+      <quaternion x="0.019020" y="0.536963" z="-0.029855" w="0.842863"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Trunk_prox.001" meshFile="Tree 4 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Leaves_pro">
+      <position x="17.548777" y="2.992323" z="28.355648"/>
+      <quaternion x="-0.046273" y="0.515279" z="-0.061442" w="0.853564"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Leaves_pro" meshFile="Tree 4 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Trunk_prox.002">
+      <position x="-27.463360" y="-1.466171" z="-22.265001"/>
+      <quaternion x="0.071765" y="0.748625" z="-0.008193" w="0.659047"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Trunk_prox.002" meshFile="Tree 4 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 2 Trunk_proxy">
+      <position x="-16.102911" y="0.868781" z="-2.087598"/>
+      <quaternion x="0.000000" y="0.000000" z="-0.000000" w="1.000000"/>
+      <scale x="0.999657" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Trunk_proxy" meshFile="Tree 2 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 2 Leaves_pro">
+      <position x="21.257427" y="2.336634" z="28.565937"/>
+      <quaternion x="0.000000" y="0.000000" z="-0.000000" w="1.000000"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Leaves_pro" meshFile="Tree 2 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Road Barrier_proxy">
+      <position x="5.999000" y="-2.447659" z="-16.999001"/>
+      <quaternion x="0.042881" y="-0.970175" z="-0.027792" w="0.236957"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Barrier_proxy" meshFile="Road Barrier.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+      </userData>
+    </node>
+    <node name="Postbox_proxy">
+      <position x="-0.380659" y="0.478427" z="28.162930"/>
+      <quaternion x="-0.098712" y="-0.955142" z="-0.036163" w="0.276860"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Postbox_proxy" meshFile="Postbox.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Trunk_prox.001">
+      <position x="-28.964962" y="-1.900848" z="20.334166"/>
+      <quaternion x="0.033033" y="-0.996370" z="-0.002600" w="0.078416"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Trunk_prox.001" meshFile="Tree 3 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Trunk_proxy">
+      <position x="-18.411310" y="-0.619149" z="-0.226263"/>
+      <quaternion x="0.172838" y="0.727841" z="0.198682" w="0.633167"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Trunk_proxy" meshFile="Tree 3 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Leaves_pro.002">
+      <position x="-27.463360" y="0.731829" z="-22.265001"/>
+      <quaternion x="0.071765" y="0.748625" z="-0.008193" w="0.659047"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Leaves_pro.002" meshFile="Tree 4 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Leaves_pro.001">
+      <position x="-15.968262" y="3.694309" z="-28.562952"/>
+      <quaternion x="0.019020" y="0.536963" z="-0.029855" w="0.842863"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Leaves_pro.001" meshFile="Tree 4 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 2 Trunk_prox.002">
+      <position x="-17.647940" y="2.700207" z="-21.834042"/>
+      <quaternion x="0.025900" y="-0.832967" z="-0.039130" w="0.551329"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Trunk_prox.002" meshFile="Tree 2 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 2 Trunk_prox.001">
+      <position x="27.000000" y="-1.530054" z="-26.255285"/>
+      <quaternion x="0.000000" y="0.000000" z="-0.000000" w="1.000000"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Trunk_prox.001" meshFile="Tree 2 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Trunk_prox.002">
+      <position x="25.555515" y="0.174649" z="-3.208150"/>
+      <quaternion x="-0.049102" y="0.967851" z="-0.023199" w="0.245593"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Trunk_prox.002" meshFile="Tree 3 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Trunk_prox">
+      <position x="17.548777" y="0.794323" z="28.355648"/>
+      <quaternion x="-0.046273" y="0.515279" z="-0.061442" w="0.853564"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Trunk_prox" meshFile="Tree 4 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Leaves_proxy">
+      <position x="-18.411310" y="1.221851" z="-0.226263"/>
+      <quaternion x="0.172838" y="0.727841" z="0.198682" w="0.633167"/>
+      <scale x="1.000054" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Leaves_proxy" meshFile="Tree 3 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Road Barrier_prox.003">
+      <position x="-17.835358" y="-2.031013" z="9.192194"/>
+      <quaternion x="0.182864" y="0.281209" z="-0.020236" w="0.941846"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Barrier_prox.003" meshFile="Road Barrier.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+      </userData>
+    </node>
+    <node name="Road Barrier_prox.001">
+      <position x="10.738296" y="-2.193808" z="-7.115710"/>
+      <quaternion x="0.101212" y="-0.253061" z="0.016513" w="0.962000"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Barrier_prox.001" meshFile="Road Barrier.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+      </userData>
+    </node>
+    <node name="Tree 4 Trunk_proxy">
+      <position x="28.709103" y="-0.407763" z="-24.312225"/>
+      <quaternion x="0.000000" y="0.334256" z="-0.000000" w="0.942482"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 4 Trunk_proxy" meshFile="Tree 4 Trunk.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 2 Leaves_pro.001">
+      <position x="27.000000" y="0.430946" z="-26.255285"/>
+      <quaternion x="0.000000" y="0.000000" z="-0.000000" w="1.000000"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Leaves_pro.001" meshFile="Tree 2 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 2 Leaves_pro.002">
+      <position x="-17.647940" y="4.661207" z="-21.834042"/>
+      <quaternion x="0.025900" y="-0.832967" z="-0.039130" w="0.551329"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 2 Leaves_pro.002" meshFile="Tree 2 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Leaves_pro.002">
+      <position x="25.555515" y="2.015649" z="-3.208150"/>
+      <quaternion x="-0.049102" y="0.967851" z="-0.023199" w="0.245593"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Leaves_pro.002" meshFile="Tree 3 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+    <node name="Tree 3 Leaves_pro.001">
+      <position x="-28.964962" y="-0.059848" z="20.334166"/>
+      <quaternion x="0.033033" y="-0.996370" z="-0.002600" w="0.078416"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Tree 3 Leaves_pro.001" meshFile="Tree 3 Leaves.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+      </userData>
+    </node>
+  </nodes>
+  <externals>
+    <item type="material">
+      <file name="Scene.material"/>
+    </item>
+  </externals>
+  <environment>
+    <colourAmbient r="0.000000" g="0.000000" b="0.000000"/>
+    <colourBackground r="0.056563" g="0.220815" b="0.400000"/>
+  </environment>
+</scene>

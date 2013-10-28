@@ -1,0 +1,603 @@
+<scene formatVersion="1.0.0">
+  <nodes>
+    <node name="Traffic Barrel_pr.001">
+      <position x="8.318502" y="-2.542893" z="-11.120294"/>
+      <quaternion x="-0.078086" y="0.614228" z="0.006007" w="0.785233"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Traffic Barrel_pr.001" meshFile="Traffic Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="75.0"/>
+      </userData>
+    </node>
+    <node name="Traffic Barrel_pr.002">
+      <position x="6.493491" y="-2.324161" z="-7.878769"/>
+      <quaternion x="-0.053045" y="0.307776" z="0.000443" w="0.949979"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Traffic Barrel_pr.002" meshFile="Traffic Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="75.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.018">
+      <position x="-23.765097" y="-2.719771" z="0.848753"/>
+      <quaternion x="0.634342" y="-0.140630" z="0.164527" w="0.742135"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.018" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.019">
+      <position x="-23.657284" y="-2.130134" z="1.132314"/>
+      <quaternion x="-0.758469" y="-0.641107" z="-0.117056" w="0.002076"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.019" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.016">
+      <position x="22.088116" y="-1.922663" z="25.166597"/>
+      <quaternion x="-0.351552" y="0.613524" z="-0.351551" w="0.613524"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.016" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.017">
+      <position x="22.000000" y="-1.364087" z="-14.837739"/>
+      <quaternion x="-0.707107" y="0.000000" z="-0.000000" w="0.707107"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.017" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.014">
+      <position x="22.113680" y="-1.270927" z="25.618616"/>
+      <quaternion x="-0.000000" y="-0.707107" z="-0.707107" w="-0.000000"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.014" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.015">
+      <position x="28.000000" y="-2.028494" z="21.000000"/>
+      <quaternion x="-0.361585" y="0.417112" z="0.630062" w="0.546165"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.015" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.012">
+      <position x="-23.415949" y="-2.758636" z="1.683090"/>
+      <quaternion x="0.558071" y="-0.092516" z="-0.817418" w="0.108747"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.012" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.013">
+      <position x="2.178009" y="-0.907089" z="12.505156"/>
+      <quaternion x="0.675190" y="-0.241495" z="0.115237" w="0.687400"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.013" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.010">
+      <position x="-6.000000" y="-1.434830" z="-5.000000"/>
+      <quaternion x="0.707107" y="0.000000" z="-0.000000" w="0.707107"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.010" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.011">
+      <position x="22.208637" y="-1.879768" z="26.025633"/>
+      <quaternion x="0.061628" y="-0.704416" z="0.704416" w="0.061628"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.011" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Traffic Barrel_proxy">
+      <position x="-16.921238" y="-2.850960" z="5.706813"/>
+      <quaternion x="-0.136137" y="-0.825663" z="0.054934" w="0.544729"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Traffic Barrel_proxy" meshFile="Traffic Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="75.0"/>
+      </userData>
+    </node>
+    <node name="Metal Barrel_prox.004">
+      <position x="-9.800000" y="-2.617615" z="-13.800000"/>
+      <quaternion x="0.708497" y="0.151593" z="-0.144209" w="0.673985"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Metal Barrel_prox.004" meshFile="Metal Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="100.0"/>
+      </userData>
+    </node>
+    <node name="Metal Barrel_prox.002">
+      <position x="-2.785071" y="-0.663688" z="8.527599"/>
+      <quaternion x="-0.055919" y="-0.062843" z="0.070069" w="0.993989"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Metal Barrel_prox.002" meshFile="Metal Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="100.0"/>
+      </userData>
+    </node>
+    <node name="Metal Barrel_prox.001">
+      <position x="24.852043" y="-2.167903" z="-4.990091"/>
+      <quaternion x="-0.042175" y="0.000000" z="-0.000000" w="0.999110"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Metal Barrel_prox.001" meshFile="Metal Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="100.0"/>
+      </userData>
+    </node>
+    <node name="Pallet_proxy">
+      <position x="26.000000" y="-3.010988" z="-18.014000"/>
+      <quaternion x="0.703165" y="-0.074556" z="-0.074556" w="0.703165"/>
+      <scale x="1.400000" y="1.400000" z="1.400000"/>
+      <entity name="Pallet_proxy" meshFile="Pallet.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="25.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy">
+      <position x="8.103251" y="-2.817301" z="-10.151996"/>
+      <quaternion x="0.007652" y="0.042943" z="0.175261" w="0.983555"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Metal Barrel_proxy">
+      <position x="-18.033813" y="-2.501876" z="10.012862"/>
+      <quaternion x="0.024414" y="0.038356" z="0.096082" w="0.994334"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Metal Barrel_proxy" meshFile="Metal Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="100.0"/>
+      </userData>
+    </node>
+    <node name="Pallet_proxy.001">
+      <position x="26.097729" y="-2.883097" z="-18.277325"/>
+      <quaternion x="0.423431" y="-0.539544" z="0.444835" w="0.575952"/>
+      <scale x="1.400000" y="1.400000" z="1.400000"/>
+      <entity name="Pallet_proxy.001" meshFile="Pallet.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="25.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy">
+      <position x="23.730099" y="-2.522544" z="-12.446330"/>
+      <quaternion x="-0.632924" y="0.187871" z="0.213725" w="0.720023"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Pallet_proxy.003">
+      <position x="-23.767307" y="-3.140118" z="0.851620"/>
+      <quaternion x="-0.000000" y="0.633762" z="-0.773528" w="-0.000000"/>
+      <scale x="1.400000" y="1.400000" z="1.400000"/>
+      <entity name="Pallet_proxy.003" meshFile="Pallet.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="25.0"/>
+      </userData>
+    </node>
+    <node name="Pallet_proxy.002">
+      <position x="28.000000" y="-2.455301" z="20.986000"/>
+      <quaternion x="0.698960" y="0.457244" z="-0.297551" w="0.462434"/>
+      <scale x="1.400000" y="1.400000" z="1.400000"/>
+      <entity name="Pallet_proxy.002" meshFile="Pallet.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="25.0"/>
+      </userData>
+    </node>
+    <node name="Barrel_proxy">
+      <position x="27.085493" y="-2.954134" z="-18.752314"/>
+      <quaternion x="0.000000" y="-0.104528" z="-0.000000" w="0.994522"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Barrel_proxy" meshFile="Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="50.0"/>
+      </userData>
+    </node>
+    <node name="Metal Barrel_prox">
+      <position x="-10.424907" y="-2.410201" z="-13.735126"/>
+      <quaternion x="0.000000" y="0.000000" z="-0.000000" w="1.000000"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Metal Barrel_prox" meshFile="Metal Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="100.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.003">
+      <position x="7.353773" y="-2.963132" z="-8.210010"/>
+      <quaternion x="-0.108207" y="0.464946" z="-0.025680" w="0.878326"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.003" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.002">
+      <position x="7.622695" y="-2.996683" z="-8.671689"/>
+      <quaternion x="-0.076848" y="0.626236" z="-0.062230" w="0.773337"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.002" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.001">
+      <position x="8.051947" y="-2.835736" z="-9.470340"/>
+      <quaternion x="-0.038715" y="0.329127" z="0.090412" w="0.939150"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.001" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.007">
+      <position x="-14.132923" y="-3.331146" z="6.839373"/>
+      <quaternion x="0.024591" y="0.007674" z="0.002087" w="0.999666"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.007" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.006">
+      <position x="-14.778376" y="-3.244962" z="6.449653"/>
+      <quaternion x="0.076414" y="0.897224" z="0.030490" w="0.433844"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.006" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.005">
+      <position x="-15.403117" y="-3.182369" z="6.200756"/>
+      <quaternion x="-0.038637" y="-0.877018" z="0.041940" w="0.477061"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.005" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.004">
+      <position x="-16.000000" y="-3.175722" z="6.002893"/>
+      <quaternion x="-0.077846" y="0.672061" z="-0.065333" w="0.733488"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.004" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.009">
+      <position x="-12.990430" y="-3.310493" z="7.561506"/>
+      <quaternion x="0.081694" y="0.554899" z="0.061682" w="0.825596"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.009" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.008">
+      <position x="-13.634756" y="-3.262682" z="7.289496"/>
+      <quaternion x="0.006058" y="0.469709" z="0.034531" w="0.882125"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.008" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Traffic Barrel_pr">
+      <position x="23.392019" y="0.315404" z="16.257536"/>
+      <quaternion x="0.256566" y="-0.615336" z="-0.098432" w="0.738814"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Traffic Barrel_pr" meshFile="Traffic Barrel.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="3"/>
+        <property type="FLOAT" name="Mass" data="75.0"/>
+      </userData>
+    </node>
+    <node name="Barrel_proxy.003">
+      <position x="22.912548" y="-1.864462" z="25.386673"/>
+      <quaternion x="0.948026" y="0.075860" z="-0.308032" w="0.024648"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Barrel_proxy.003" meshFile="Barrel.mesh"/>
+      <userData>
+        <property type="FLOAT" name="Mass" data="50.0"/>
+        <property type="INT" name="Shape" data="3"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.010">
+      <position x="-12.393538" y="-3.316614" z="7.755350"/>
+      <quaternion x="-0.033782" y="0.868560" z="0.042596" w="0.492592"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.010" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.011">
+      <position x="-11.771326" y="-3.235124" z="7.922053"/>
+      <quaternion x="0.012472" y="-0.299569" z="0.064925" w="0.951781"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.011" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.012">
+      <position x="6.548460" y="-2.562280" z="-15.279737"/>
+      <quaternion x="-0.083823" y="0.418026" z="-0.059346" w="0.902611"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.012" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.013">
+      <position x="6.534118" y="-2.532196" z="-14.541245"/>
+      <quaternion x="0.068424" y="0.556282" z="-0.051860" w="0.826546"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.013" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.014">
+      <position x="6.515234" y="-2.533573" z="-13.899165"/>
+      <quaternion x="0.273018" y="0.909786" z="-0.116438" w="0.290160"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.014" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.015">
+      <position x="6.645542" y="-2.581267" z="-13.247649"/>
+      <quaternion x="0.136064" y="0.614435" z="-0.168025" w="0.758765"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.015" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.016">
+      <position x="21.731461" y="0.356578" z="15.296176"/>
+      <quaternion x="0.090108" y="0.532485" z="0.113796" w="0.833901"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.016" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.017">
+      <position x="21.290895" y="0.430335" z="15.028869"/>
+      <quaternion x="0.056550" y="0.912363" z="0.115085" w="0.388782"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.017" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.018">
+      <position x="22.185999" y="0.253671" z="15.727348"/>
+      <quaternion x="0.189828" y="-0.547449" z="-0.083752" w="0.810710"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.018" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Road Cone_proxy.019">
+      <position x="22.857048" y="0.190933" z="15.844091"/>
+      <quaternion x="0.264713" y="0.391987" z="0.134680" w="0.870709"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Road Cone_proxy.019" meshFile="Road Cone.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="4"/>
+        <property type="FLOAT" name="Mass" data="10.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.009">
+      <position x="-6.000000" y="-2.038149" z="-5.000000"/>
+      <quaternion x="-0.114502" y="-0.697774" z="-0.681843" w="0.187325"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.009" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.008">
+      <position x="2.231900" y="-0.297089" z="12.467854"/>
+      <quaternion x="0.168719" y="-0.001663" z="0.982942" w="0.073190"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.008" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.005">
+      <position x="10.576175" y="-1.942234" z="-17.913713"/>
+      <quaternion x="-0.697346" y="0.347784" z="0.279697" w="0.560824"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.005" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.004">
+      <position x="23.000000" y="-2.664758" z="-12.000000"/>
+      <quaternion x="0.707107" y="0.000000" z="-0.000000" w="0.707107"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.004" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.007">
+      <position x="23.000000" y="-2.450943" z="-13.000000"/>
+      <quaternion x="0.138207" y="-0.693469" z="0.693469" w="0.138207"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.007" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.006">
+      <position x="-6.163047" y="-2.092804" z="-5.835558"/>
+      <quaternion x="0.997748" y="0.033634" z="0.030252" w="0.049530"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.006" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.001">
+      <position x="11.406074" y="-2.144829" z="-8.554555"/>
+      <quaternion x="0.688856" y="-0.159614" z="0.257596" w="0.658517"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.001" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.003">
+      <position x="23.088552" y="-1.868000" z="-12.544782"/>
+      <quaternion x="0.514469" y="-0.514469" z="-0.485100" w="0.485100"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.003" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Box_proxy.002">
+      <position x="22.000000" y="-1.974562" z="-14.754607"/>
+      <quaternion x="0.675523" y="0.208971" z="-0.208971" w="0.675523"/>
+      <scale x="0.720000" y="0.720000" z="0.720000"/>
+      <entity name="Box_proxy.002" meshFile="Box.mesh"/>
+      <userData>
+        <property type="INT" name="Shape" data="1"/>
+        <property type="FLOAT" name="Mass" data="40.0"/>
+      </userData>
+    </node>
+    <node name="Barrel_proxy.002">
+      <position x="-5.203383" y="-2.385405" z="-5.727983"/>
+      <quaternion x="0.538754" y="-0.751113" z="-0.047578" w="0.378562"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Barrel_proxy.002" meshFile="Barrel.mesh"/>
+      <userData>
+        <property type="FLOAT" name="Mass" data="50.0"/>
+        <property type="INT" name="Shape" data="3"/>
+      </userData>
+    </node>
+    <node name="Barrel_proxy.001">
+      <position x="26.000000" y="-2.381785" z="-18.000000"/>
+      <quaternion x="-0.464015" y="0.099474" z="0.878322" w="0.057842"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Barrel_proxy.001" meshFile="Barrel.mesh"/>
+      <userData>
+        <property type="FLOAT" name="Mass" data="50.0"/>
+        <property type="INT" name="Shape" data="3"/>
+      </userData>
+    </node>
+    <node name="Barrel_proxy.005">
+      <position x="2.760370" y="-0.812425" z="12.056323"/>
+      <quaternion x="0.000000" y="0.000000" z="0.170207" w="0.985408"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Barrel_proxy.005" meshFile="Barrel.mesh"/>
+      <userData>
+        <property type="FLOAT" name="Mass" data="50.0"/>
+        <property type="INT" name="Shape" data="3"/>
+      </userData>
+    </node>
+    <node name="Barrel_proxy.004">
+      <position x="-24.153921" y="-2.770281" z="1.710644"/>
+      <quaternion x="-0.099276" y="0.451164" z="-0.050584" w="0.885459"/>
+      <scale x="1.000000" y="1.000000" z="1.000000"/>
+      <entity name="Barrel_proxy.004" meshFile="Barrel.mesh"/>
+      <userData>
+        <property type="FLOAT" name="Mass" data="50.0"/>
+        <property type="INT" name="Shape" data="3"/>
+      </userData>
+    </node>
+  </nodes>
+  <externals>
+    <item type="material">
+      <file name="Scene.material"/>
+    </item>
+  </externals>
+  <environment>
+    <colourAmbient r="0.000000" g="0.000000" b="0.000000"/>
+    <colourBackground r="0.056563" g="0.220815" b="0.400000"/>
+  </environment>
+</scene>
